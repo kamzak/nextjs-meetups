@@ -1,0 +1,15 @@
+.detail {
+    text-align: center;
+    background-color: rgba(217, 217, 217, 0.249);
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.229);
+}
+
+.detail img {
+    width: 100%;
+    border-radius: 5px;
+}
+
+.detail p {
+    padding-bottom: 1rem;
+}
